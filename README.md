@@ -7,3 +7,4 @@
  links del area de redes de contacto:
  1- funciona el enlace de correo electronico
  2-funciona el enlace de link con facebook
+ 3-funciona el link para imprimir el documento html
