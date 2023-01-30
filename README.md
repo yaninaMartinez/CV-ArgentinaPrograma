@@ -1,4 +1,5 @@
 # CV-ArgentinaPrograma
+Contiene: estructura divida en secciones con parrafos,h1, h2, hr ,listas enlaces y un boton. Diseño basico de estilo en la hoja de css 
  Funcionalidades con javascript:
  1- cambia de color de fondo del cuerpo del documento html
  2- cambiar de color de fondo el boton del documento html
