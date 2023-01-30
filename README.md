@@ -8,3 +8,6 @@
  1- funciona el enlace de correo electronico
  2-funciona el enlace de link con facebook
  3-funciona el link para imprimir el documento html
+
+nota: en caso de no cargar la imagen del Cv-- quitar de la etiqueta img (img cv/), quedando de la siguiente formafoto-cv.jpg
+(olvide que en el proyecto local la imagen esta guardada en una carpeta llamada img cv.
